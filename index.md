@@ -28,6 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Data Science Projects
+<a href="https://github.com/yf12C06/portfolio/blob/gh-pages/Autotrader%20Web%20Scraping%20101920.pdf" target="_blank">Autotrader Webscraping Project</a>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yf12C06/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
